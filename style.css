@@ -1,0 +1,42 @@
+body{
+    background-color:palevioletred;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    
+}
+.assyl {
+    background-color:white ;
+    border-radius: 15px;
+    width: 400px;
+    box-shadow: 10px 5px 5px rgba(10, 3, 3, 0.268)
+
+}
+img {
+   height: 60px;
+   width: 60px;
+   border: 3px solid gray;
+  border-radius: 50%;
+}
+.aktual {
+    display: flex;
+    padding-left: 10px;
+    gap: 15px;
+   
+}
+.bigger {
+    padding-left: 20px;
+}
+.send {
+    background-color:rgba(255, 3, 196, 0.933);
+    height: 50px;
+  margin-left: 40px;
+  margin-right: 40px;
+  border-radius: 7px;
+  text-align: center;
+  color: azure;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
